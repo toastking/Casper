@@ -1,6 +1,6 @@
 {
-    "name": "casper",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
+    "name": "mattdelsig",
+    "description": "The Theme for mattdelsig.me",
     "demo": "https://demo.ghost.io",
     "version": "2.8.0",
     "engines": {
@@ -17,9 +17,9 @@
         "test": "gscan ."
     },
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "Matt Del Signore",
+        "email": "mattdelsig@me.com",
+        "url": "mattdelsig.me"
     },
     "gpm": {
         "type": "theme",
@@ -35,7 +35,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/TryGhost/Casper.git"
+        "url": "https://github.com/toastking/Casper.git"
     },
     "bugs": "https://github.com/TryGhost/Casper/issues",
     "contributors": "https://github.com/TryGhost/Casper/graphs/contributors",
@@ -57,7 +57,7 @@
         "gulp-uglify": "3.0.1"
     },
     "config": {
-        "posts_per_page": 25,
+        "posts_per_page": 5,
         "image_sizes": {
             "xxs": {
                 "width": 30
